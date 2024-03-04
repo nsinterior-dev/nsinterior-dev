@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nsinterior-dev, Nicolle Interior at 23
+- 👋 Hi, I’m @nsinterior-dev, Nicolle Interior at 24
 - A graduate in Bachelor's of Science in Computer Engineering in Polytechnic University of the Philippines in Manila
 - 👀 I’m interested in both front-end and back-end development. 
 - 🌱 I’m currently learning ReactJS, NodeJS, ExpressJS and MongoDB
