@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nsinterior-dev, Nicolle Interior at 24
 - A graduate in Bachelor's of Science in Computer Engineering in Polytechnic University of the Philippines in Manila
-- 👀 I’m interested in both front-end and back-end development. 
-- 🌱 I’m currently learning ReactJS, NodeJS, ExpressJS and MongoDB
+- Working as Software Engineer in a startup company, Wizy Software Labs, Inc
+- - Have worked in the products: GoWizApp and WizyVision
 - 💞️ I’m looking to collaborate on doing small projects such as website, web applicaion and mobile application
 - 📫 How to reach me: interiornicolle@gmail.com, facebook.com/koleng.ganda
 
