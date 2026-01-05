@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @nsinterior-dev, Nicolle Interior at 24
-- A graduate in Bachelor's of Science in Computer Engineering in Polytechnic University of the Philippines in Manila
-- Working as Software Engineer in a startup company, Wizy Software Labs, Inc
-  - Have worked in the products: GoWizApp and WizyVision
-- 💞️ I’m looking to collaborate on doing small projects such as website, web applicaion and mobile application
-- 📫 How to reach me: interiornicolle@gmail.com, facebook.com/koleng.ganda
+# Hi, I'm Nicolle Interior 👋
 
-<!---
-nsinterior-dev/nsinterior-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----> 
+**Frontend Developer** with 3+ years of experience building enterprise web applications.
+
+## 🛠️ Tech Stack
+
+**Frontend:** React · Next.js · TypeScript · Material UI · Redux · React Query · React Hook Form
+
+**Design & Prototyping:** Figma · AI Prototyping (Claude, Gemini, Figma Make AI)
+
+**Tools:** Git · JIRA · Confluence · Google Cloud Platform
+
+## 💼 Experience
+
+Currently a Software Engineer 2 at **Wizy Software Labs, Inc.**, working on:
+- [WizyVision](https://wizyvision.com) — AI Mobile Apps for Frontline Performance
+- [GoWizApp](https://gowizapp.com) — Learning Management System
+
+## 📦 Open Source
+
+- [@wizyvision/react-schedule](https://github.com/wizyvision/react-schedule) — React scheduling component with drag-and-drop resource timeline
+
+## 🎯 What I'm Looking For
+
+Frontend Developer or Software Engineer roles at mid-size companies where I can focus on building great user experiences with React/Next.js.
+
+## 📫 Contact
+
+- Email: interiornicolle@gmail.com
+- LinkedIn: [linkedin.com/in/nicolle-interior](https://www.linkedin.com/in/nicolle-interior)
